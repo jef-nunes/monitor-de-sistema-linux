@@ -42,7 +42,6 @@ conky.config = {
 
 conky.text = [[
 
-NETWORK
 
 ${color #396b7d}Estatísticas de pacote (filtrar UDP) :
 # ${color #31dbf5} ${exec ss -tulnp | sed -n '1p' | grep -v 'udp '}
