@@ -1,5 +1,5 @@
 ## Sobre
-Este projeto de tema personalizado para aplicação "conky" mostra informações úteis ao desenvolver software em ambiente Linux. O esquema de cores utilizado é minimalista e baseado na cor Aqua. Os scripts de configurações consistem em 2 arquivos:
+Este projeto consiste em um tema personalizado para aplicação "conky", monitor de sistema disponível para Linux. O esquema de cores utilizado é minimalista e baseado na cor Aqua. Os scripts de configurações consistem em 2 arquivos:
 
 #### 1. monitor_principal:
 Mostra informações de armazenamento, memória e processamento da máquina
