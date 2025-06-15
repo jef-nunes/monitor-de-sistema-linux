@@ -1,6 +1,6 @@
 ## Sobre
-Monitores personalizados para aplicação a "conky", disponível para Linux. <br>
-O projeto de configuração consiste em 2 arquivos distintos:
+Monitor personalizado para aplicação a "conky", disponível para Linux. <br>
+A configuração personalizada consiste em 2 arquivos distintos:
 
 #### 1. monitor_principal:
 Mostra informações de armazenamento, memória e processamento da máquina
