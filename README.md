@@ -1,5 +1,5 @@
 ## Sobre
-Monitores de sistema "conky" personalizados. O objetivo é fornecer um monitoramento de informações úteis em ambiente de desenvolvimento Linux. A configuração personalizada consiste em 2 arquivos distintos:
+Monitores de sistema "conky" personalizados. O objetivo é fornecer um monitoramento de informações úteis em ambiente de desenvolvimento Linux. A configuração personalizada consiste em 2 arquivos:
 
 #### 1. monitor_principal:
 Mostra informações de armazenamento, memória e processamento da máquina
