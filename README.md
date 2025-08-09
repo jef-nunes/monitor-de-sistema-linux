@@ -8,7 +8,7 @@ Mostra informações de armazenamento, memória e processamento da máquina
 Mostra informações relativas à rede e conectividade da máquina.
 
 ## Exemplo de uso
-Exemplificando como utilizar esse tema, utilizando dois terminais:
+Rodando a aplicação conky com cada configuração, em terminais separados
 No terminal 1:
 ```shell
 conky --config monitor_principal
